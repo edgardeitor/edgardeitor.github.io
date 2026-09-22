@@ -1,0 +1,14 @@
+---
+title: "Pattern localisation in the Swift-Hohenberg equation via slowly varying spatial heterogeneity"
+collection: publications
+category: manuscripts
+permalink: /publication/WKB
+excerpt: 'The WKB method is used to study pattern formation in a heterogeneous version of the Swift-Hohenberg equation. Maxwell points are also justified to give better approximations for transition points.'
+date: 2025-10-16
+venue: 'SIAM Journal on Applied Dynamical Systems'
+# slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'
+paperurl: 'https://epubs.siam.org/doi/10.1137/24M1695245'
+# bibtexurl: 'https://edgardeitor.github.io/files/WKB.bib'
+citation: 'Krause, A. L., Klika, V., Villar-Sepúlveda, E., Champneys, A. R., & Gaffney, E. A. (2025). Pattern localisation in the Swift–Hohenberg equation via slowly varying spatial heterogeneity. SIAM Journal on Applied Dynamical Systems, 24(4), 2804-2847.'
+---
+**Abstract.** Theories of localised pattern formation are important to understand a broad range of natural patterns, but they are less well understood than more established mechanisms of domain-filling pattern formation. Here, we extend recent work on pattern localisation via slow spatial heterogeneity in reaction-diffusion systems to the Swift–Hohenberg equation. We use a WKB asymptotic approach to show that, in the limit of a large domain and slowly varying heterogeneity, conditions for Turing-type linear instability localize in a simple way, with the spatial variable playing the role of a parameter. For nonlinearities locally corresponding to supercritical bifurcations in the spatially homogeneous system, this analysis asymptotically predicts regions where patterned states are confined, which we confirm numerically. We resolve the inner region of this asymptotic approach, finding excellent agreement with the tails of these confined pattern regions. In the locally subcritical case, however, this theory is insufficient to fully predict such confined regions, and so we propose an approach based on numerical continuation of a local homogeneous analog system. Pattern localisation in the heterogeneous system can then be determined based on the Maxwell point of this system, with the spatial variable parameterizing this point. We compare this theory of localisation via spatial heterogeneity to localised patterns arising from homoclinic snaking, and suggest a way to distinguish between different localisation mechanisms in natural systems based on how these structures decay to the background state (i.e., how their tails decay). We also explore cases where both of these local theories of pattern formation fail to capture the interaction between spatial heterogeneity and underlying pattern-forming mechanisms, suggesting that more work needs to be done to fully disentangle exogenous and intrinsic heterogeneity.

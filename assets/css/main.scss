@@ -1,0 +1,55 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv",
+    "custom"
+;
+
+/* Make the left sidebar scrollable when it's taller than the window */
+@media screen and (min-width: 1024px) {
+  .sidebar {
+    height: calc(100vh - 9em);  /* stop above the footer */
+    overflow-y: auto;           /* scroll inside that space */
+
+    /* hide the scrollbar but keep scrolling */
+    scrollbar-width: none;            /* Firefox, current Chrome/Edge/Safari */
+    -ms-overflow-style: none;         /* old Edge/IE */
+    &::-webkit-scrollbar {
+      display: none;                  /* older Chrome/Safari */
+    }
+  }
+}
