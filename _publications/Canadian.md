@@ -9,6 +9,7 @@ venue: 'Canadian Mathematical Bulletin'
 # slidesurl: 'https://edgardeitor.github.io/files/slides3.pdf'
 # bibtexurl: 'https://edgardeitor.github.io/files/Canadian.bib'
 paperurl: 'https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/piecewise-contracting-maps-on-the-interval-hausdorff-dimension-entropy-and-attractors/6E3069AB7E73A46D7BF9AED5CBCFCFF9'
+preprinturl: 'https://arxiv.org/abs/2309.09154'
 citation: 'Calderón, A. E., & Villar-Sepúlveda, E. (2024). Piecewise contracting maps on the interval: Hausdorff dimension, entropy, and attractors. Canadian Mathematical Bulletin, 67(2), 318-327.'
 ---
 

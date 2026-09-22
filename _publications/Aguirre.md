@@ -9,6 +9,7 @@ venue: 'SIAM Journal on Applied Dynamical Systems'
 # slidesurl: 'https://edgardeitor.github.io/files/slides2.pdf'
 # bibtexurl: 'https://edgardeitor.github.io/files/Aguirre.bib'
 paperurl: 'https://epubs.siam.org/doi/10.1137/22M1474709'
+preprinturl: 'https://arxiv.org/abs/2008.05628'
 citation: 'Villar-Sepúlveda, E., Aguirre, P., & Breña-Medina, V. F. (2023). A case study of multiple wave solutions in a reaction-diffusion system using invariant manifolds and global bifurcations. SIAM Journal on Applied Dynamical Systems, 22(2), 918-950.'
 ---
 

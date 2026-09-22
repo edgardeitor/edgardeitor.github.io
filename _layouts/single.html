@@ -46,8 +46,11 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.paperurl %}
-          <p><a href="{{ page.paperurl }}"><strong>View Paper</strong></a></p>
+        {% if page.paperurl or page.preprinturl %}
+          <p>
+            {% if page.paperurl %}<a href="{{ page.paperurl }}"><strong>View Paper</strong></a>{% endif %}
+            {% if page.preprinturl %}{% if page.paperurl %} | {% endif %}<a href="{{ page.preprinturl }}"><strong>Download Preprint</strong></a>{% endif %}
+          </p>
         {% endif %}
         {{ content }}
 

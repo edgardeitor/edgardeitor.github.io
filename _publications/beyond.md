@@ -7,7 +7,7 @@ excerpt: 'The general formulation of an amplitude equation at a codimension-2 Tu
 date: 2026-08-24
 venue: 'Nonlinearity [In Press]'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/abs/2501.02698'
+preprinturl: 'https://arxiv.org/abs/2501.02698'
 # bibtexurl: 'https://edgardeitor.github.io/files/beyond.bib'
 citation: 'Villar-Sepúlveda, E. (2025). Beyond-all-order asymptotics for homoclinic snaking of localised patterns in reaction-transport systems. arXiv preprint arXiv:2501.02698.'
 ---

@@ -66,11 +66,12 @@
     {% endif %}
     {% endunless %}
     
-    {% if post.paperurl or post.slidesurl or post.bibtexurl %}
+    {% if post.paperurl or post.preprinturl or post.slidesurl or post.bibtexurl %}
       <p>
         {% if post.paperurl %}<a href="{{ post.paperurl }}">View Paper</a>{% endif %}
-        {% if post.slidesurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
-        {% if post.bibtexurl %}{% if post.paperurl or post.slidesurl %} | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
+        {% if post.preprinturl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.preprinturl }}">Download Preprint</a>{% endif %}
+        {% if post.slidesurl %}{% if post.paperurl or post.preprinturl %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
+        {% if post.bibtexurl %}{% if post.paperurl or post.preprinturl or post.slidesurl %} | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
       </p>
     {% endif %}
 
