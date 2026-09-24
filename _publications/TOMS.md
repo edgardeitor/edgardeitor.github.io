@@ -9,6 +9,7 @@ venue: 'ACM Transactions on Mathematical Software'
 # slidesurl: 'https://edgardeitor.github.io/files/slides3.pdf'
 # bibtexurl: 'https://edgardeitor.github.io/files/TOMS.bib'
 paperurl: 'https://dl.acm.org/doi/10.1145/3625560'
+preprinturl: 'https://arxiv.org/abs/2609.28039'
 citation: 'Villar-Sepúlveda, E., & Champneys, A. R. (2023). Computation of Turing bifurcation normal form for n-component reaction-diffusion systems. ACM Transactions on Mathematical Software, 49(4), 1-24.'
 ---
 
