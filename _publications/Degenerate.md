@@ -9,6 +9,7 @@ venue: 'SIAM Journal on Applied Dynamical Systems'
 # slidesurl: 'https://edgardeitor.github.io/files/slides3.pdf'
 # bibtexurl: 'https://edgardeitor.github.io/files/Degenerate.bib'
 paperurl: 'https://epubs.siam.org/doi/full/10.1137/22M1509734'
+preprinturl: 'https://arxiv.org/abs/2609.29900'
 citation: 'Villar-Sepúlveda, E., & Champneys, A. R. (2023). Degenerate Turing bifurcation and the birth of localised patterns in activator-inhibitor systems. SIAM Journal on Applied Dynamical Systems, 22(3), 1673-1709.'
 ---
 
