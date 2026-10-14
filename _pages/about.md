@@ -7,9 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Technical University of Munich, hosted by Prof. Christian Kuehn under a TUM Global Postdoc Fellowship. I completed my PhD at the University of Bristol with Prof. Alan Champneys.
+I am an applied mathematician working on nonlinear dynamics, applied analysis and pattern formation in nonlinear partial differential equations. My research focuses on Turing and wave instabilities, nonlinear waves, localised patterns and homoclinic snaking in reaction–diffusion–transport systems. I develop analytical and asymptotic methods to understand how these structures emerge, persist and interact, with particular emphasis on Maxwell points and beyond-all-order asymptotics.
 
-I study how patterns form in reaction-transport systems. Rather than analysing one model at a time, I develop general theory that applies to classes of models, and write software packages that carry out laborious calculations, such as weakly nonlinear theory, automatically for general classes of $n$-component systems.
+I am currently a TUM Global Postdoc Fellow at the Technical University of Munich, hosted by Professor Christian Kühn. I completed my PhD in Engineering Mathematics at the University of Bristol in 2025, where my thesis received the Patrick Woods Prize for the best [thesis](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/) of the year in the School of Engineering Mathematics and Technology.
+
+** Coding and computational methods
+
+Computational mathematics is an integral part of my research. I use numerical simulations, numerical continuation and symbolic computation to investigate nonlinear patterns, analyse bifurcations and test analytical predictions. My work combines asymptotic analysis with computational approaches to study mathematical structures that can be difficult to characterise using either approach alone.
+
+My main tools include:
+
+* Programming and symbolic computation: Python, MATLAB and Mathematica.
+* Numerical continuation and bifurcation analysis: AUTO-07p, BifurcationKit and pde2path.
+* Scientific computing: numerical simulations and computational analysis of nonlinear partial differential equations.
+
+I am also interested in reproducible research and open-source scientific software, making computational codes available alongside my publications whenever possible.
 
 ## Research interests
 * Pattern formation in reaction-transport systems
@@ -17,8 +29,5 @@ I study how patterns form in reaction-transport systems. Rather than analysing o
 * Localised patterns and homoclinic snaking
 * Amplitude equations and normal forms
 * Computational tools for bifurcation analysis
-
-## Background
-I did my undergraduate and master's degrees in a mixture of pure and applied mathematics. During my PhD, I focused on general approaches to build tools that can be applied widely to reaction-transport systems. My PhD Thesis is available [here](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/)
 
 See my [CV](/cv/), [publications](/publications/), [talks](/talks/) and [Awards](/portfolio/).
