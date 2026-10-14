@@ -9,7 +9,7 @@ redirect_from:
 
 I am an applied mathematician working on nonlinear dynamics, applied analysis and pattern formation in nonlinear partial differential equations. My research focuses on Turing and wave instabilities, nonlinear waves, localised patterns and homoclinic snaking in reaction–diffusion–transport systems. I develop analytical and asymptotic methods to understand how these structures emerge, persist and interact, with particular emphasis on Maxwell points and beyond-all-order asymptotics.
 
-I am currently a TUM Global Postdoc Fellow at the Technical University of Munich, hosted by Professor Christian Kühn. I completed my PhD in Engineering Mathematics at the University of Bristol in 2025, where my thesis received the Patrick Woods Prize for the best [thesis](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/) of the year in the School of Engineering Mathematics and Technology.
+I am currently a TUM Global Postdoc Fellow at the Technical University of Munich, hosted by Professor Christian Kühn. I completed my PhD in Engineering Mathematics at the University of Bristol in 2025, where my [PhD thesis](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/) received the Patrick Woods Prize for the best thesis of the year in the School of Engineering Mathematics and Technology.
 
 ## Coding and computational methods
 
