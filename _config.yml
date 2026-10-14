@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Dr. Edgardo Villar-Sepúlveda"
 title_separator          : "-"
 name                     : &name "Edgardo Villar-Sepúlveda"
-description              : &description "Postdoctoral researcher in applied mathematics at the Technical University of Munich, working on pattern formation and dynamical systems."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "TUM Global Postdoc Fellow at the Technical University of Munich, working on pattern formation, nonlinear waves, and beyond-all-order asymptotics in partial differential equations."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://edgardeitor.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
