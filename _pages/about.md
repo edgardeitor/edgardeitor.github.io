@@ -11,7 +11,7 @@ I am an applied mathematician working on nonlinear dynamics, applied analysis an
 
 I am currently a TUM Global Postdoc Fellow at the Technical University of Munich, hosted by Professor Christian Kühn. I completed my PhD in Engineering Mathematics at the University of Bristol in 2025, where my thesis received the Patrick Woods Prize for the best [thesis](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/) of the year in the School of Engineering Mathematics and Technology.
 
-** Coding and computational methods
+## Coding and computational methods
 
 Computational mathematics is an integral part of my research. I use numerical simulations, numerical continuation and symbolic computation to investigate nonlinear patterns, analyse bifurcations and test analytical predictions. My work combines asymptotic analysis with computational approaches to study mathematical structures that can be difficult to characterise using either approach alone.
 
