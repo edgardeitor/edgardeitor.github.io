@@ -12,7 +12,11 @@ citation: 'Villar-Sepúlveda, E., Aguirre, P., & Breña-Medina, V. F. (2023). A 
 ---
 
 <figure>
-  <embed src="/images/publications/2.Aguirre.pdf" type="application/pdf" width="100%" height="500px">
+  <iframe
+    src="/images/publications/2.Aguirre.pdf"
+    style="width: 100%; height: 600px; border: none;"
+    title="Profile of a wave front">
+  </iframe>
   <figcaption>Profile of a wave front.</figcaption>
 </figure>
 
