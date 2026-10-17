@@ -14,7 +14,7 @@ citation: 'Villar-Sepúlveda, E., Aguirre, P., & Breña-Medina, V. F. (2023). A 
 <figure>
   <img
     src="/images/publications/2.Aguirre.png"
-    alt="Profile of a wave front"
+    alt="Profile of a wave front.  Panel (a) shows a projection of the heteroclinic orbit from q to p, while panel (b) shows its time series for U and V."
     style="width: 100%; height: auto;">
   <figcaption>Profile of a wave front.</figcaption>
 </figure>
