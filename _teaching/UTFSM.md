@@ -9,7 +9,8 @@ years: 2014–2017
 location: "Valparaíso, Chile"
 ---
 
-I prepared material and assisted students with several courses including
+I prepared material and assisted students with several courses, including
+
 * Differential geometry of curves and surfaces
 * Single and multi-variable differential and integral calculus
 * Linear algebra

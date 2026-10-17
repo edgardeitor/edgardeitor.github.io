@@ -10,5 +10,6 @@ location: "Valparaíso, Chile"
 ---
 
 I taught courses on the following subjects:
+
 * Single and multi-variable differential and integral calculus
 * Algebra and geometry

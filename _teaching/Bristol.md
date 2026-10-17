@@ -9,7 +9,8 @@ years: 2021–2024
 location: "Bristol, UK"
 ---
 
-I assisted undergraduate and master's students with several courses including
+I assisted undergraduate and master's students with several courses, including
+
 * Data science and applied statistics
 * Mathematical and data modelling
 * Software development: programming and algorithms
@@ -22,4 +23,4 @@ I assisted undergraduate and master's students with several courses including
 * Discrete mathematics
 * Visual analytics
 
-Furthermore, I gained experience supporting Advanced Mathematics Support Programme (AMSP) Problem Solving Matters, which is an advanced mathematical problem-solving course for Year 12 students.
+Furthermore, I gained experience supporting the Advanced Mathematics Support Programme’s Problem Solving Matters course, which aims to develop Year 12 students' mathematical thinking and problem-solving skills.

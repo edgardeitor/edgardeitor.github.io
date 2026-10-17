@@ -10,5 +10,6 @@ location: "Viña del Mar, Chile"
 ---
 
 I taught two different subjects:
+
 * Multi-variable integral calculus
 * Linear algebra

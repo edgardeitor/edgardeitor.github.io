@@ -20,6 +20,6 @@ Furthermore, I taught and/or marked for different courses such as
 * Data Science and Applied Statistics
 * Data Engineering at Scale
 * Large-Scale Data Engineering for Business
-* Engineering Mathematics (~1,050 students).
+* Engineering Mathematics (~1,050 students)
 
-I also worked as a personal tutor for undergraduate and master's students, as well as a supervisor for Financial Technology master’s projects.
+I also served as a personal tutor for undergraduate and master's students, as well as a supervisor for Financial Technology and Data Science master’s projects.
