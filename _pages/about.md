@@ -9,7 +9,7 @@ redirect_from:
 
 I am an applied mathematician and TUM Global Postdoctoral Fellow at the Technical University of Munich, hosted by Prof. Christian Kühn. I develop analytical and computational methods to understand pattern formation in reaction–diffusion and reaction–transport systems.
 
-My research focuses on nonlinear instabilities, travelling waves, localised patterns, and beyond-all-order asymptotics. By combining bifurcation theory, asymptotic analysis, numerical continuation, and scientific computing, I aim to identify the mechanisms that organise complex spatial and spatiotemporal structures.
+My research focuses on nonlinear instabilities, travelling waves, localised patterns, and beyond–all–order asymptotics. By combining bifurcation theory, asymptotic analysis, numerical continuation, and scientific computing, I aim to identify the mechanisms that organise complex spatial and spatiotemporal structures.
 
 I completed my PhD in Engineering Mathematics at the University of Bristol in June 2025, under the supervision of Prof. Alan Champneys, and received the Patrick Woods Prize for the [best thesis of the year](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/) in the School of Engineering Mathematics and Technology.
 
@@ -32,7 +32,7 @@ My main tools include:
 Where available, the software and scripts associated with my research are linked alongside the corresponding publications.
 
 ## Research interests
-* Pattern formation in reaction-diffusion-transport systems
+* Pattern formation in reaction–diffusion–transport systems
 * Turing and wave instabilities
 * Localised patterns and homoclinic snaking
 * Amplitude equations and normal forms
