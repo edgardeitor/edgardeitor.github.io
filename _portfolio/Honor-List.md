@@ -5,4 +5,4 @@ collection: portfolio
 date: 2019-06-01
 ---
 
-Awarded by the Universidad Técnica Federico Santa María for being among the top students of the campus among all cohorts. Furthermore, I placed 2nd place in 2018 and 2019.
+Ranked among the best students at my university each year. In 2018 and 2019, I ranked second among all enrolled students, across all entry-year cohorts.

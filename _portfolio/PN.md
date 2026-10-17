@@ -5,4 +5,4 @@ collection: portfolio
 date: 2013-12-01
 ---
 
-Awarded by the Universidad Técnica Federico Santa Mar+ia for obtaining the maximum score in the national University entrance exam.
+Scholarship awarded to fund my undergraduate and master's studies for obtaining a perfect score in the University entrance test in Mathematics.
