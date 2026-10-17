@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2026 -- Present: Postdoctoral Researcher
+* 2026 -- Present: TUM Global Postdoc Fellow
   * Technical University of Munich
   * Duties include: Planning my research timetable to complete the projects in my proposal and supervising PhD and MSc students.
 
