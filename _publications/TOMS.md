@@ -1,5 +1,5 @@
 ---
-title: "Computation of Turing bifurcation normal form for n-component reaction-diffusion systems"
+title: "Computation of Turing bifurcation normal form for $n$-component reaction-diffusion systems"
 collection: publications
 category: manuscripts
 permalink: /publication/TOMS
