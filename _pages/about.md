@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied mathematician studying the emergence, stability, and localisation of patterns in nonlinear partial differential equations. My research combines bifurcation theory, amplitude equations, beyond-all-order asymptotics, and numerical continuation to understand Turing and wave instabilities, travelling waves, and localised patterns in reaction–diffusion–transport systems.
+Feel free to [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf), or see my [publications](/publications/), [talks](/talks/) and [Awards](/portfolio/).
 
-My research focuses on nonlinear instabilities, travelling waves, localised patterns, and beyond–all–order asymptotics. By combining bifurcation theory, asymptotic analysis, numerical continuation, and scientific computing, I aim to identify the mechanisms that organise complex spatial and spatiotemporal structures.
+I am an applied mathematician and TUM Global Postdoctoral Fellow at the Technical University of Munich, hosted by Prof. Christian Kühn. I develop analytical and computational methods to understand pattern formation in reaction–diffusion and reaction–transport systems.
+
+My research combines bifurcation theory, amplitude equations, numerical continuation, and beyond-all-order asymptotics to investigate the existence, stability, and localisation of nonlinear patterns. I am particularly interested in the mechanisms that organise travelling waves and localised structures, including patterns that arise beyond classical instability thresholds.
 
 I completed my PhD in Engineering Mathematics at the University of Bristol in June 2025, under the supervision of Prof. Alan Champneys, and received the Patrick Woods Prize for the [best thesis of the year](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/) in the School of Engineering Mathematics and Technology.
 
@@ -36,6 +38,4 @@ Where available, the software and scripts associated with my research are linked
 * Turing and wave instabilities
 * Localised patterns and homoclinic snaking
 * Amplitude equations and normal forms
-* Computational tools for bifurcation analysis
-
-You can [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf), or see my [publications](/publications/), [talks](/talks/) and [Awards](/portfolio/), or a [summary of my CV](/cv/).
+* Pattern formation on evolving domains

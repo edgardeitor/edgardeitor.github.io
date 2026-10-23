@@ -3,7 +3,7 @@ title: "Pattern formation as a resilience mechanism in cancer immunotherapy"
 collection: publications
 category: manuscripts
 permalink: /publication/Molly
-excerpt: 'We show that the study of a spatial dimension in cancer modelling is important, as an ordinary differential equation that shows convergence to a healthy system can develop Turing instabilities after the addition of diffusion, which prevents viruses from disappearing.'
+excerpt: 'We show that spatial effects can qualitatively change the predictions of a cancer-immunotherapy model: a system that converges to a healthy state without diffusion can develop Turing instabilities when spatial effects are included, potentially preventing the virus population from disappearing.'
 date: 2025-07-01
 venue: 'Bulletin of Mathematical Biology'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'

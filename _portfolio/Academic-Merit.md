@@ -5,4 +5,4 @@ collection: portfolio
 date: 2019-11-01
 ---
 
-Awarded by the Universidad Técnica Federico Santa María for being the best student of my cohort at that institution in 2019.
+Awarded to the top student among all those who entered the university in 2014, across all programmes.

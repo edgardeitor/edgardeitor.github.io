@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate and postgraduate course"
 permalink: /teaching/Bristol2
 venue: "Department of Engineering Mathematics"
-date: 2025-01-01
-years: 2025–2026
+date: 2024-01-01
+years: 2024–2026
 location: "Bristol, UK"
 ---
 

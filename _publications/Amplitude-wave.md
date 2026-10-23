@@ -3,7 +3,7 @@ title: "Amplitude equations for wave bifurcations in reaction-diffusion systems"
 collection: publications
 category: manuscripts
 permalink: /publication/Amplitude-wave
-excerpt: 'We compute the normal form for general reaction-diffusion systems going through Turing-wave bifurcations up to order 5, and show their accuracy in different examples.'
+excerpt: 'We derive fifth-order normal forms for Turing–wave bifurcations in general reaction–diffusion systems and assess their accuracy through several examples.'
 date: 2024-07-11
 venue: 'Nonlinearity'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'

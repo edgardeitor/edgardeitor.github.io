@@ -3,7 +3,7 @@ title: "Transient instability and patterns of reactivity in diffusive chemotaxis
 collection: publications
 category: manuscripts
 permalink: /publication/Angela
-excerpt: 'We study pattern formation in a soil carbon dynamics model in a Turing-stable region. We compute the criticality of the bifurcation in 1D, realising that there is no change of criticality, but the model shows a bistable region anyway in 2D.'
+excerpt: 'We investigate pattern formation in a soil-carbon model within a Turing-stable parameter region. Our analysis finds no change in bifurcation criticality in one spatial dimension, while simulations reveal a bistable region in two dimensions.'
 date: 2025-10-14
 venue: 'Bulletin of Mathematical Biology'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'
