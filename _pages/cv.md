@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my official CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf)
+
 A summary of my academic record. More detail is on the [Publications](/publications/), [Talks](/talks/), [Teaching](/teaching/) and [Awards](/portfolio/) pages.
 
 Education

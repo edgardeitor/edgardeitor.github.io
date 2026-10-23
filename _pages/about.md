@@ -38,4 +38,4 @@ Where available, the software and scripts associated with my research are linked
 * Amplitude equations and normal forms
 * Computational tools for bifurcation analysis
 
-See my [CV](/cv/), [publications](/publications/), [talks](/talks/) and [Awards](/portfolio/).
+You can [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf), or see my [summary of my CV](/cv/), [publications](/publications/), [talks](/talks/) and [Awards](/portfolio/).
