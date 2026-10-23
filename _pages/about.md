@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-You can [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf), or see my [publications](/publications/), [talks](/talks/), [teaching](/teaching/), and [Awards](/portfolio/).
+You can see my [publications](/publications/), [talks](/talks/), [teaching](/teaching/), and [Awards](/portfolio/), or [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf).
 
 I am an applied mathematician and TUM Global Postdoctoral Fellow at the Technical University of Munich, hosted by Prof. Christian Kühn. I develop analytical and computational methods to understand pattern formation in reaction–diffusion and reaction–transport systems.
 
