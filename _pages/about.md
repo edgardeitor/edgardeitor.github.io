@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied mathematician and TUM Global Postdoctoral Fellow at the Technical University of Munich, hosted by Prof. Christian Kühn. I develop analytical and computational methods to understand pattern formation in reaction–diffusion and reaction–transport systems.
+I am an applied mathematician studying the emergence, stability, and localisation of patterns in nonlinear partial differential equations. My research combines bifurcation theory, amplitude equations, beyond-all-order asymptotics, and numerical continuation to understand Turing and wave instabilities, travelling waves, and localised patterns in reaction–diffusion–transport systems.
 
 My research focuses on nonlinear instabilities, travelling waves, localised patterns, and beyond–all–order asymptotics. By combining bifurcation theory, asymptotic analysis, numerical continuation, and scientific computing, I aim to identify the mechanisms that organise complex spatial and spatiotemporal structures.
 

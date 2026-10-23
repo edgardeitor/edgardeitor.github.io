@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UAI
 venue: "Department of Mathematics"
-date: 2018-01-01
-years: 2018–2020
+date: 2020-01-01
+years: 2020
 location: "Viña del Mar, Chile"
 ---
 
