@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Explore my [publications](/publications/), [talks](/talks/), [teaching](/teaching/), and [Awards](/portfolio/), or [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf).
+Explore my [Publications](/publications/), [Talks](/talks/), [Teaching](/teaching/), and [Awards](/portfolio/), or [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf).
 
-I am a TUM Global Postdoc Fellow at the Technical University of Munich (TUM), hosted by Prof. Christian Kühn. My research focuses on pattern formation in reaction–diffusion–transport systems. I combine bifurcation theory, amplitude equations, numerical continuation, and beyond-all-order asymptotics to determine the existence, stability, and localisation of nonlinear patterns, including travelling and standing waves and localised structures that emerge beyond classical instability thresholds.
+I am a TUM Global Postdoc Fellow at the Technical University of Munich (TUM), hosted by Prof. Christian Kühn. My research focuses on pattern formation in reaction–diffusion–transport systems. I combine bifurcation theory, amplitude equations, numerical continuation, and beyond-all-order asymptotics to determine the existence, stability, and localisation of nonlinear patterns, including travelling waves, standing waves, and localised structures that emerge beyond classical instability thresholds.
 
 I completed my PhD in Engineering Mathematics at the University of Bristol in June 2025, under the supervision of Prof. Alan Champneys, and received the Patrick Woods Prize for the [best thesis of the year](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/) in the School of Engineering Mathematics and Technology.
 
-My broader research interests include pattern formation on evolving domains and applications of nonlinear mathematics to biological and ecological systems.
+My broader research interests include pattern formation on heterogeneous and evolving domains, with applications to biological and ecological systems.
 
 ## Coding and computational methods
 
-I combine analytical methods, symbolic computation, and numerical experiments to derive asymptotic reductions, analyse nonlinear bifurcations, and investigate the existence and stability of spatially localised patterns.
+I use symbolic computation to support asymptotic calculations and numerical continuation and simulation to analyse nonlinear solution branches and test theoretical predictions.
 
 My main tools include:
 
