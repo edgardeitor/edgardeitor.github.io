@@ -16,8 +16,8 @@ var addressPoints = [
   ],
   [
     "Homoclinic snaking & localised patterns beyond all asymptotic orders<br />Leiden University; Leiden, the Netherlands",
-    52.1594747,
-    4.4908843
+    52.1518157,
+    4.4811089
   ],
   [
     "Turing patterns in general $n$-component reaction-diffusion equations posed on different geometries<br />SIAM Conference on Nonlinear Waves and Coherent Structures; Bremen, Germany",
@@ -75,7 +75,7 @@ var addressPoints = [
     -2.5816622
   ],
   [
-    "Maxwell points, the origin of nontrivial connections in multiscale systems<br />Technical University of Munich; Garching, Germany",
+    "Maxwell points, the origin of nontrivial connections in multiscale systems<br />Technical University of Munich; Garching bei M\u00fcnchen, Germany",
     48.2513878,
     11.6509662
   ],
