@@ -1,5 +1,5 @@
 ---
-title: "Engineering Teacher - Universidad Adolfo Ibáñez"
+title: "Engineering Teacher — Universidad Adolfo Ibáñez"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UAI
@@ -9,7 +9,4 @@ years: 2020
 location: "Viña del Mar, Chile"
 ---
 
-I taught two different subjects:
-
-* Multi-variable integral calculus
-* Linear algebra
+I taught undergraduate Linear Algebra and Multi-Variable Integral Calculus.

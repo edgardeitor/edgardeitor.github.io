@@ -3,7 +3,7 @@ title: "Degenerate Turing bifurcation and the birth of localised patterns in act
 collection: publications
 category: manuscripts
 permalink: /publication/Degenerate
-excerpt: 'We derive conditions for the existence of codimension-two Turing bifurcations at which the bifurcation changes criticality are found in a family of systems including the Schnakenberg and the Brusselator systems.'
+excerpt: 'We derive conditions for codimension-two Turing bifurcations at which the bifurcation changes criticality, and illustrate these conditions using the Schnakenberg and Brusselator models.'
 date: 2023-07-24
 venue: 'SIAM Journal on Applied Dynamical Systems'
 # slidesurl: 'https://edgardeitor.github.io/files/slides3.pdf'

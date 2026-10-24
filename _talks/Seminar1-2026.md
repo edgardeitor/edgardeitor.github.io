@@ -5,7 +5,7 @@ type: "Seminar"
 permalink: /talks/Seminar1-2026
 venue: "Technical University of Munich"
 date: 2026-05-01
-location: "Garching, Germany"
+location: "Garching bei München, Germany"
 ---
 
 **Oberseminar Dynamics**.

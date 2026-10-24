@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - Universidad Técnica Federico Santa María"
+title: "Teaching Assistant — Universidad Técnica Federico Santa María"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UTFSM
@@ -9,8 +9,4 @@ years: 2014–2017
 location: "Valparaíso, Chile"
 ---
 
-I prepared material and assisted students with several courses, including
-
-* Differential geometry of curves and surfaces
-* Single and multi-variable differential and integral calculus
-* Linear algebra
+I assisted with undergraduate teaching in Differential Geometry of Curves and Surfaces, Single- and Multivariable Differential and Integral Calculus, and Linear Algebra.

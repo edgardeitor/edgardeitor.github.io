@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-You can see my [publications](/publications/), [talks](/talks/), [teaching](/teaching/), and [Awards](/portfolio/), or [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf).
+explore my [publications](/publications/), [talks](/talks/), [teaching](/teaching/), and [Awards](/portfolio/), or [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf).
 
 I am an applied mathematician and TUM Global Postdoctoral Fellow at the Technical University of Munich, hosted by Prof. Christian Kühn. I develop analytical and computational methods to understand pattern formation in reaction–diffusion and reaction–transport systems.
 
-My research combines bifurcation theory, amplitude equations, numerical continuation, and beyond-all-order asymptotics to investigate the existence, stability, and localisation of nonlinear patterns. I am particularly interested in the mechanisms that organise travelling waves and localised structures, including patterns that arise beyond classical instability thresholds.
+My research combines bifurcation theory, amplitude equations, numerical continuation, and beyond-all-order asymptotics to determine the existence, stability, and localisation of nonlinear patterns. I focus on mechanisms that organise travelling waves and localised structures, including patterns that emerge beyond classical instability thresholds.
 
 I completed my PhD in Engineering Mathematics at the University of Bristol in June 2025, under the supervision of Prof. Alan Champneys, and received the Patrick Woods Prize for the [best thesis of the year](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/) in the School of Engineering Mathematics and Technology.
 
@@ -37,5 +37,5 @@ Where available, the software and scripts associated with my research are linked
 * Pattern formation in reaction–diffusion–transport systems
 * Turing and wave instabilities
 * Localised patterns and homoclinic snaking
-* Amplitude equations and normal forms
+* Amplitude equations, normal forms, and beyond-all-order asymptotics
 * Pattern formation on evolving domains
