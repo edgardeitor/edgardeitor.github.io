@@ -1,6 +1,6 @@
 ---
 title: "Academic Merit Award"
-excerpt: "Best student of the year among all cohorts."
+excerpt: "Top student of the year among all cohorts that entered the university in 2014, accross all programmes."
 collection: portfolio
 date: 2019-11-01
 ---

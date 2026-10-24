@@ -1,6 +1,6 @@
 ---
 title: "Dean's Honor List"
-excerpt: "For being among the best students of my University in Chile from 2014 to 2019. I also placed 2nd in 2018 and 2019."
+excerpt: "Ranked among the best students at my University from 2014 to 2019. I also ranked 2nd in 2018 and 2019 among all enrolled students."
 collection: portfolio
 date: 2019-06-01
 ---
