@@ -3,7 +3,7 @@ title: "Beyond-all-order asymptotics for homoclinic snaking of localised pattern
 collection: publications
 category: manuscripts
 permalink: /publication/beyond
-excerpt: 'We derive the general formulation of an amplitude equation at a codimension-2 Turing bifurcation, together with conditions for the existence of a Maxwell point that lets us predict the width of the homoclinic snaking region. See the [Exponential-asymptotics GitHub repository](https://github.com/edgardeitor/Exponential-asymptotics).'
+excerpt: 'We derive the general formulation of an amplitude equation at a codimension-2 Turing bifurcation, together with conditions for the existence of a Maxwell point that let us predict the width of the homoclinic snaking region. See the [Exponential-asymptotics GitHub repository](https://github.com/edgardeitor/Exponential-asymptotics).'
 date: 2026-08-24
 venue: 'Nonlinearity'
 paperurl: 'https://doi.org/10.1088/1361-6544/ae9fe4'

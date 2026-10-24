@@ -3,7 +3,7 @@ title: "Amplitude equations for wave bifurcations in reaction-diffusion systems"
 collection: publications
 category: manuscripts
 permalink: /publication/Amplitude-wave
-excerpt: 'We derive quintic amplitude equations for Turing–wave bifurcations in general reaction–diffusion systems, and assess their accuracy through several examples. See the [Criticality-of-Turing-Wave GitHub repository](https://github.com/edgardeitor/Criticality-of-Turing-wave)'
+excerpt: 'We derive quintic amplitude equations for Turing–wave bifurcations in general reaction–diffusion systems and assess their accuracy through several examples. See the [Criticality-of-Turing-Wave GitHub repository](https://github.com/edgardeitor/Criticality-of-Turing-wave).'
 date: 2024-07-11
 venue: 'Nonlinearity'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'
