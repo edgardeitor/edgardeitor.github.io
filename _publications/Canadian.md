@@ -3,7 +3,7 @@ title: "Piecewise contracting maps on the interval: Hausdorff dimension, entropy
 collection: publications
 category: manuscripts
 permalink: /publication/Canadian
-excerpt: 'We prove that the topological entropy and the Hausdorff dimension of the attractor of injective piecewise contracting maps on compact intervals are zero.'
+excerpt: 'We prove that the topological entropy and the Hausdorff dimension of the attractor of injective piecewise contracting maps on compact intervals are both zero.'
 date: 2024-06-01
 venue: 'Canadian Mathematical Bulletin'
 # slidesurl: 'https://edgardeitor.github.io/files/slides3.pdf'

@@ -3,7 +3,7 @@ title: "Pattern formation of bulk-surface reaction-diffusion systems in a ball"
 collection: publications
 category: manuscripts
 permalink: /publication/bulk-surface
-excerpt: 'We derive amplitude equations for pattern-forming instabilities in bulk-surface reaction-diffusion systems in a ball, and show how bifurcating patterns depend on symmetry.'
+excerpt: 'We derive amplitude equations for stationary pattern-forming instabilities in bulk-surface reaction-diffusion systems in a ball, and show how our analysis predicts the stable pattern that onsets after the corresponding bifurcations.'
 date: 2026-01-06
 venue: 'SIAM Journal on Applied Mathematics'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'

@@ -3,7 +3,7 @@ title: "General conditions for Turing and wave instabilities in reaction-diffusi
 collection: publications
 category: manuscripts
 permalink: /publication/General-conditions
-excerpt: 'Sufficient conditions are provided for a reaction-diffusion system to show Turing or Turing wave instabilities. These conditions are based only on the study of the Jacobian matrix of the system in the absence of diffusion.'
+excerpt: 'Sufficient conditions are provided for a reaction-diffusion system to show Turing or Turing–wave instabilities, which are based only on the study of the Jacobian matrix of the system in the absence of diffusion.'
 date: 2023-01-28
 venue: 'Journal of Mathematical Biology'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'

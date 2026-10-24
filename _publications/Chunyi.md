@@ -3,7 +3,7 @@ title: "An asymptotic analysis of spike self-replication and spike nucleation of
 collection: publications
 category: manuscripts
 permalink: /publication/Chunyi
-excerpt: 'We identify parameter regimes supporting spike nucleation and spike self-replication in well-studied reaction–diffusion systems on growing one-dimensional domains.'
+excerpt: 'We identify parameter regimes supporting spike nucleation and spike self-replication in reaction–diffusion systems on growing one-dimensional domains.'
 date: 2025-02-24
 venue: 'Bulletin of Mathematical Biology'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'

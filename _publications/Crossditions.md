@@ -3,7 +3,7 @@ title: "Designing reaction-cross-diffusion systems with Turing and wave instabil
 collection: publications
 category: manuscripts
 permalink: /publication/Crossditions
-excerpt: 'We develop systematic methods for constructing reaction–cross-diffusion systems exhibiting Turing and wave instabilities, based on the construction of unstable principal submatrices.'
+excerpt: 'We develop systematic methods for constructing reaction–cross–diffusion systems exhibiting Turing and Turing–wave instabilities, based on the construction of unstable principal submatrices.'
 date: 2025-09-11
 venue: 'Journal of Mathematical Biology'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'

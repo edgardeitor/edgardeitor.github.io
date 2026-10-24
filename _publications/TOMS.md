@@ -3,7 +3,7 @@ title: "Computation of Turing bifurcation normal form for $n$-component reaction
 collection: publications
 category: manuscripts
 permalink: /publication/TOMS
-excerpt: 'We derive general expressions for Stuart–Landau amplitude equations at Turing bifurcations in reaction–diffusion systems and provide code to automate the calculations and plot the resulting bifurcation curves.'
+excerpt: 'We derive general expressions for Stuart–Landau amplitude equations at Turing bifurcations in reaction–diffusion systems and provide code to automate the calculations and plot the resulting bifurcation curves. See the [TOMS GitHub repository](https://github.com/edgardeitor/TOMS)'
 date: 2023-12-15
 venue: 'ACM Transactions on Mathematical Software'
 # slidesurl: 'https://edgardeitor.github.io/files/slides3.pdf'

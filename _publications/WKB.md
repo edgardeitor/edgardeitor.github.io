@@ -3,7 +3,7 @@ title: "Pattern localisation in the Swift-Hohenberg equation via slowly varying 
 collection: publications
 category: manuscripts
 permalink: /publication/WKB
-excerpt: 'We investigate how slowly varying spatial heterogeneity localises patterns in the Swift–Hohenberg equation, using WKB asymptotics and a local Maxwell-point approach.'
+excerpt: 'We investigate how slowly varying spatial heterogeneity localises patterns in the Swift–Hohenberg equation, using WKB asymptotics and a local Maxwell point approach.'
 date: 2025-10-16
 venue: 'SIAM Journal on Applied Dynamical Systems'
 # slidesurl: 'https://edgardeitor.github.io/files/slides1.pdf'

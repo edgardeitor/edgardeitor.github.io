@@ -3,7 +3,7 @@ title: "A case study of multiple wave solutions in a reaction-diffusion system u
 collection: publications
 category: manuscripts
 permalink: /publication/Aguirre
-excerpt: 'We study travelling waves in a predator-prey model obtained after adding diffusion to a species model with a ratio-dependent functional response and a strong Allee effect on the prey.'
+excerpt: 'We study travelling waves in a predator-prey model obtained after adding diffusion to a predator–prey model with a ratio-dependent functional response and a strong Allee effect on the prey.'
 date: 2023-06-08
 venue: 'SIAM Journal on Applied Dynamical Systems'
 paperurl: 'https://epubs.siam.org/doi/10.1137/22M1474709'
