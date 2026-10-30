@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Interactive map of the places where I have given talks"
+permalink: /talkmap.html
+author_profile: true
+---
+
+<p>Some of the places where I have given talks.</p>
+<iframe src="/talkmap/map.html" title="Map of talk locations" height="700" width="100%" style="border:none;"></iframe>
+<h2>Places (text version)</h2>
+<ul>
+{% assign places = site.talks | map: "location" | uniq | sort %}
+{% for place in places %}
+  <li>{{ place }}</li>
+{% endfor %}
+</ul>

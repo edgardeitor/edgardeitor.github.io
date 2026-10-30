@@ -1,0 +1,9 @@
+@media (min-width: 64em) {
+  .sidebar {
+    top: 0;
+    bottom: 0;
+    height: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+}
