@@ -1,7 +1,7 @@
 ---
 title: "Turing instabilities in bulk-surface reaction-diffusion equations on a sphere"
 collection: talks
-type: "Contributed talk"
+type: "Contributed talk (online)"
 permalink: /talks/Loughborough-2022
 venue: "British Applied Mathematics Colloquium"
 date: 2022-04-01

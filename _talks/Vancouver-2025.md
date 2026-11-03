@@ -1,7 +1,7 @@
 ---
 title: "Exponential asymptotics to study the extent to which localized patterns exist"
 collection: talks
-type: "Contributed seminar"
+type: "Contributed seminar (online)"
 permalink: /talks/Vancouver-2025
 venue: "Mathematical Biology Research Group, The University of British Columbia"
 date: 2025-02-12
