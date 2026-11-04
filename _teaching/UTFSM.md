@@ -9,4 +9,4 @@ years: 2014–2017
 location: "Valparaíso, Chile"
 ---
 
-I assisted with undergraduate courses in *Differential Geometry of Curves and Surfaces* (~20 students), *Single-* and *Multivariable Differential Calculus* (~80 students), *Single-* and *Multivariable Integral Calculus* (~40 students), and *Linear Algebra* (~40 students).
+I assisted with undergraduate courses in *Differential Geometry of Curves and Surfaces*, *Single-* and *Multivariable Differential Calculus* (~80 students), *Single-* and *Multivariable Integral Calculus* (~40 students), and *Linear Algebra* (~40 students).

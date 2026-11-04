@@ -9,4 +9,4 @@ years: 2020
 location: "Viña del Mar, Chile"
 ---
 
-I taught undergraduate courses in *Linear Algebra* and multivariable *Integral Calculus* (~30 students)
+I taught undergraduate courses in *Linear Algebra* and multivariable *Integral Calculus*
