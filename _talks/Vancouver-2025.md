@@ -1,5 +1,5 @@
 ---
-title: "Exponential asymptotics to study the extent to which localized patterns exist"
+title: "Exponential asymptotics to study the extent to which localised patterns exist"
 collection: talks
 type: "Contributed seminar (online)"
 permalink: /talks/Vancouver-2025
