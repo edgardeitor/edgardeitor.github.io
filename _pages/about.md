@@ -17,7 +17,7 @@ I completed my PhD in Engineering Mathematics at the University of Bristol in Ju
 
 ## Coding and computational methods
 
-I use symbolic computation to support asymptotic calculations and numerical continuation and simulation to analyse nonlinear solution branches and test theoretical predictions.
+I use symbolic computation to support asymptotic calculations, and numerical continuation and simulations to analyse nonlinear solution branches and test theoretical predictions.
 
 My main tools include:
 
