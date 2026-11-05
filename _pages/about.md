@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[Publications](/publications/) - [Talks](/talks/) - [Teaching and Supervision](/teaching/) - [Awards and Fellowships](/portfolio/) - [CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf)
+[Publications](/publications/) · [Talks](/talks/) · [Teaching and Supervision](/teaching/) · [Awards and Fellowships](/portfolio/) · [CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf)
 
 I am a TUM Global Postdoc Fellow at the Technical University of Munich (TUM), hosted by Prof. Christian Kühn. My research focuses on pattern formation in reaction–diffusion–transport systems, combining bifurcation theory, amplitude equations, numerical continuation, and beyond-all-order asymptotics to investigate nonlinear waves, localised patterns, and the mechanisms underlying their emergence and stability. My work addresses Turing and Turing–wave instabilities, degenerate bifurcations and homoclinic snaking, with applications to biological and environmental systems.
 
