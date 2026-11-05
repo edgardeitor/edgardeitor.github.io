@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Explore my [Publications](/publications/), [Talks](/talks/), [Teaching and Supervision](/teaching/), and [Awards and Fellowships](/portfolio/), or [Download my CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf).
+[Publications](/publications/) * [Talks](/talks/) * [Teaching and Supervision](/teaching/) * [Awards and Fellowships](/portfolio/) * [CV (PDF)](/files/Edgardo_Villar-Sepulveda_CV.pdf)
 
 I am a TUM Global Postdoc Fellow at the Technical University of Munich (TUM), hosted by Prof. Christian Kühn. My research focuses on pattern formation in reaction–diffusion–transport systems, combining bifurcation theory, amplitude equations, numerical continuation, and beyond-all-order asymptotics to investigate nonlinear waves, localised patterns, and the mechanisms underlying their emergence and stability. My work addresses Turing and Turing–wave instabilities, degenerate bifurcations and homoclinic snaking, with applications to biological and environmental systems.
 
 The central aim of my research is to develop analytical and computational tools that predict nonlinear pattern formation beyond classical instability thresholds. I am particularly interested in how weakly nonlinear effects, spatial heterogeneity, and nonstandard diffusion influence the existence, stability, and localisation of spatial structures.
 
-I completed my PhD in Engineering Mathematics at the University of Bristol in June 2025, under the supervision of Prof. Alan Champneys, and received the Patrick Woods Prize for the [best thesis of the year](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/) in the School of Engineering Mathematics and Technology.
+I completed my PhD in Engineering Mathematics at the University of Bristol in June 2025, under the supervision of Prof. Alan Champneys. My [thesis](https://research-information.bris.ac.uk/en/studentTheses/general-approaches-to-pattern-formation-in-reaction-diffusion-sys/), *General approaches to pattern formation in reaction–diffusion systems*, received the Patrick Woods Prize for the best PhD thesis of the 2024–2025 academic year in the School of Engineering Mathematics and Technology.
 
 ## Coding and computational methods
 
