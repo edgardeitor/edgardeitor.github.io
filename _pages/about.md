@@ -31,7 +31,7 @@ Where available, the software and scripts associated with my research are linked
 
 ## Research interests
 * Pattern formation in reaction–diffusion–transport systems
-* Turing and wave instabilities
+* Turing and Turing–wave instabilities
 * Localised patterns and homoclinic snaking
 * Amplitude equations, normal forms, and beyond-all-order asymptotics
 * Pattern formation on heterogeneous and evolving domains
