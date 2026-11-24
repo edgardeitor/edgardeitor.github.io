@@ -7,7 +7,7 @@ excerpt: 'We establish the equivalence of several notions of topological entropy
 date: 2024-04-16
 venue: 'arXiv'
 preprinturl: 'https://arxiv.org/abs/2404.10867'
-citation: 'Calderón, A. E., & Villar-Sepúlveda, E. (2024). Unifying topological entropy notions for piecewise continuous maps on the interval. arXiv preprint arXiv:2404.10867.'
+citation: 'Calderón, Alfredo E., & Villar-Sepúlveda, Edgardo (2024). Unifying topological entropy notions for piecewise continuous maps on the interval. arXiv preprint arXiv:2404.10867.'
 ---
 
 <figure>
