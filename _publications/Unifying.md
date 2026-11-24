@@ -3,7 +3,7 @@ title: "Unifying topological entropy notions for piecewise continuous maps on th
 collection: publications
 category: preprints
 permalink: /publication/Unifying
-excerpt: 'We establish the equivalence of several notions of topological entropy for piecewise continuous maps on compact intervals, unifying the Adler–Konheim–McAndrew, Bowen, and Misiurewicz–Szlenk approaches.'
+excerpt: 'We establish the equivalence of different notions of topological entropy for piecewise continuous maps on compact intervals, unifying the Adler–Konheim–McAndrew, Bowen, and Misiurewicz–Szlenk approaches to defining entropy.'
 date: 2024-04-16
 venue: 'arXiv'
 preprinturl: 'https://arxiv.org/abs/2404.10867'
