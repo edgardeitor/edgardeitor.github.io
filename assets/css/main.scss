@@ -57,3 +57,8 @@
 figure figcaption {
   color: inherit;
 }
+
+/* Hide the footer */
+.page__footer {
+  display: none;
+}
