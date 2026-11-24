@@ -1,9 +1,9 @@
 ---
 title: "Engineering Teacher — Universidad Técnica Federico Santa María"
 collection: teaching
-type: "Undergraduate"
+type: "Undergraduate teaching"
 permalink: /teaching/UTFSM2
-venue: "Department of Mathematics"
+venue: "Departmento de Matemática"
 date: 2018-01-01
 years: 2018–2020
 location: "Valparaíso, Chile"

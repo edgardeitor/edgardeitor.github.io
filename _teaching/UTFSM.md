@@ -1,9 +1,9 @@
 ---
 title: "Teaching Assistant — Universidad Técnica Federico Santa María"
 collection: teaching
-type: "Undergraduate"
+type: "Undergraduate teaching"
 permalink: /teaching/UTFSM
-venue: "Department of Mathematics"
+venue: "Departmento of Matemática"
 date: 2014-01-01
 years: 2014–2017
 location: "Valparaíso, Chile"

@@ -1,9 +1,9 @@
 ---
 title: "Engineering Teacher — Universidad Adolfo Ibáñez"
 collection: teaching
-type: "Undergraduate"
+type: "Undergraduate teaching"
 permalink: /teaching/UAI
-venue: "Department of Mathematics"
+venue: "Facultad de Ingeniería y Ciencias"
 date: 2020-01-01
 years: 2020
 location: "Viña del Mar, Chile"
