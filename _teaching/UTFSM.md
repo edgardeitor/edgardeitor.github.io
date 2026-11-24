@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant — Universidad Técnica Federico Santa María"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/UTFSM
 venue: "Department of Mathematics"
 date: 2014-01-01

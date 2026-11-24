@@ -1,7 +1,7 @@
 ---
 title: "Engineering Teacher — Universidad Técnica Federico Santa María"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/UTFSM2
 venue: "Department of Mathematics"
 date: 2018-01-01

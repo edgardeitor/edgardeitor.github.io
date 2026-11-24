@@ -1,7 +1,7 @@
 ---
 title: "Engineering Teacher — Universidad Adolfo Ibáñez"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/UAI
 venue: "Department of Mathematics"
 date: 2020-01-01

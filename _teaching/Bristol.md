@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant — University of Bristol"
 collection: teaching
-type: "Undergraduate and postgraduate course"
+type: "Undergraduate and postgraduate"
 permalink: /teaching/Bristol
 venue: "Department of Engineering Mathematics"
 date: 2021-01-01
