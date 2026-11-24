@@ -15,6 +15,11 @@ author_profile: true
   {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% assign publication_count = 0 %}
+    {% for count_post in site.publications %}
+      {% if count_post.category == category[0] %}
+        {% assign publication_count = publication_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
