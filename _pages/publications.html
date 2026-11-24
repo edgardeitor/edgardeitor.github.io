@@ -23,8 +23,8 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% assign publication_count = publication_count | plus: 1 %}
       {% include archive-single.html %}
+      {% assign publication_count = publication_count | minus: 1 %}
     {% endfor %}
   {% endfor %}
 {% else %}
